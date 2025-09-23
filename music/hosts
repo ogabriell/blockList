@@ -1,0 +1,107 @@
+0.0.0.0 accounts.spotify.com
+0.0.0.0 api-partner.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 audio-ak.spotifycdn.com
+0.0.0.0 dealer.spotify.com
+0.0.0.0 gue1-spclient.spotify.com
+0.0.0.0 image-ak.spotifycdn.com
+0.0.0.0 image.spotifycdn.com
+0.0.0.0 mixed-media-images.spotifycdn.com
+0.0.0.0 open-exp.spotifycdn.com
+0.0.0.0 open.spotify.com
+0.0.0.0 pickasso.spotifycdn.com
+0.0.0.0 pixel-static.spotify.com
+0.0.0.0 pixel.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 spotify.com
+0.0.0.0 spotify.demdex.net
+0.0.0.0 spotifycdn.com
+0.0.0.0 www.spotify.com
+0.0.0.0 wrapped-images.spotifycdn.com
+
+
+0.0.0.0 music.apple.com
+0.0.0.0 itunes.apple.com
+0.0.0.0 aod.itunes.apple.com
+0.0.0.0 audio.itunes.apple.com
+0.0.0.0 s.mzstatic.com
+0.0.0.0 amp-api.music.apple.com
+0.0.0.0 amp-api-edge.music.apple.com
+0.0.0.0 buy.music.apple.com
+0.0.0.0 amp-account.music.apple.com
+0.0.0.0 embed.music.apple.com
+0.0.0.0 apps.apple.com
+0.0.0.0 mzstatic.com
+
+
+0.0.0.0 music.amazon.com
+0.0.0.0 music.amazon.co.uk
+0.0.0.0 music.amazon.de
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 amg-video-content.amazon.com
+0.0.0.0 images-na.ssl-images-amazon.com
+
+0.0.0.0 deezer.com
+0.0.0.0 www.deezer.com
+0.0.0.0 cdn.deezer.com
+0.0.0.0 api.deezer.com
+0.0.0.0 static.deezer.com
+0.0.0.0 e-cdns-images.dzcdn.net
+0.0.0.0 static.deezer.com
+
+0.0.0.0 tidal.com
+0.0.0.0 www.tidal.com
+0.0.0.0 listen.tidal.com
+0.0.0.0 resources.tidal.com
+0.0.0.0 images.tidal.com
+0.0.0.0 api.tidalhifi.com
+
+0.0.0.0 qobuz.com
+0.0.0.0 www,qobuz.com
+0.0.0.0 streaming.qobuz.com
+0.0.0.0 api.qobuz.com
+
+
+0.0.0.0 music.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+
+0.0.0.0 soundcloud.com
+0.0.0.0 www.soundcloud.com
+0.0.0.0 api.soundcloud.com
+0.0.0.0 m.soundcloud.com
+0.0.0.0 a-v2.sndcdn.com
+0.0.0.0 wave.sndcdn.com
+
+0.0.0.0 jiosaavn.com
+0.0.0.0 www.jiosaavn.com
+0.0.0.0 api.jiosaavn.com
+0.0.0.0 cdn.jiosaavn.com
+
+0.0.0.0 pandora.com
+0.0.0.0 tuner.pandora.com
+0.0.0.0 cdn.pandora.com
+0.0.0.0 www.pandora.com
+
+0.0.0.0 iheart.com
+0.0.0.0 www.iheart.com
+0.0.0.0 api.iheart.com
+
+0.0.0.0 anghami.com
+0.0.0.0 www.anghami.com
+0.0.0.0 play.anghami.com
+0.0.0.0 api.anghami.com
+
+0.0.0.0 joox.com
+0.0.0.0 www.joox.com
+0.0.0.0 api.joox.com
+
+0.0.0.0 moov.hk
+0.0.0.0 www.moov.hk
+
+0.0.0.0 trebel.io
+0.0.0.0 www.trebel.io
+0.0.0.0 api.trebel.io
