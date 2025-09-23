@@ -58,7 +58,7 @@
 0.0.0.0 api.tidalhifi.com
 
 0.0.0.0 qobuz.com
-0.0.0.0 www,qobuz.com
+0.0.0.0 www.qobuz.com
 0.0.0.0 streaming.qobuz.com
 0.0.0.0 api.qobuz.com
 
@@ -105,3 +105,4 @@
 0.0.0.0 trebel.io
 0.0.0.0 www.trebel.io
 0.0.0.0 api.trebel.io
+
